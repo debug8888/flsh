@@ -3,7 +3,7 @@
 
 # 需要的联系飞机账号  @nohup88  请备注是github看到的
 
-# 官方网站：[官方网站点我]( www.debug8888.com "官方网站")
+# 官方网站：[官方网站点我]( http://www.debug8888.com "官方网站")
 ![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/ba22f9d6474d328187d40337d9299cec)
 
 
