@@ -1,38 +1,77 @@
-# flsh
-## 鱼苗管理系统 盗U系统 秒U系统
-## 此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道  包含了免授权盗U
+# 鱼苗系统  秒合约
+## 鱼苗管理系统 盗U系统 秒U系统 秒合约
+## 1：此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道  包含了免授权盗U（这个是一次性的盗走 太狠了。。）
 
 
-# 需要的联系飞机账号  @ttt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
+# 2：需要的联系飞机账号  @ttt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！这个和市面上垃圾秒U不一样，市面上的那个很多的后门！此系统代码开源，无加密， 可以二开。
 
-# 杀鱼 提币 不依赖第三方的接口 ， 安全性有保障， 防止二次被盗U
-
-# 官方网站：[官方网站点我]( http://www.debug8888.com "官方网站")
-
-# 目前支持钱包 tp钱包 imtoken钱包  波宝钱包 ， 其他波场的钱包
+# 3：杀鱼 提币 不依赖第三方的接口 ， 安全性有保障， 防止二次被盗U
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=1a82febad048864e94afe8efbba29b41)
+# 4:目前支持钱包 tp钱包 imtoken钱包  波宝钱包 ， 其他波场的钱包
+
+# 5:支持的链， 波场链， 以太坊链， BSC链
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/ba22f9d6474d328187d40337d9299cec)
+# 一：波场的如下
+
+## 1:扫码转账盗U 【场景 比如有人给你转账 你把链接发给他 进行盗U】
+
+![](img/1.png)
+
+## 2:空投盗U （场景 比如你自己发个代币， 然后空投给用户 顺便把链接空投给用户， 然后用户钱包打开 进行盗U）
+
+![](img/2.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/15d072ae13936b8199886d91205ef5ae)
+## 3：挖矿盗U
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/2c01cd423399c8bf8710e7b4481d7bb3)
+![](img/3.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/c806c56dab6f3c5d40e1f1cb6a1b6ab9)
+## 4：黑U检测 （这个场景你可以自由发挥）
+
+![](img/4.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/43110ada30a75cd87ff39648bd3ca016)
+## 5：审计钱包安全 （场景一般是在线下同台卖U的时候）
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/9bae79062ed76e2c1658113dd6e10873)
+![](img/5.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/e30cd0cca109740c23af6bdb9435a2bf)
+## 6：抽奖模式
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/e0df072ae495dd95945a3d5f6801f944)
+![](img/6.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/9d55f1fa5e10044e921c39e466007575)
+## 7：tp钱包授权 （页面和tp的转账页面一模一样）
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/93662ac59cac389dfc7602b7061b1b32)
+![](img/7.png)
+
+## 8：静默授权直接授权（直接授权 不显示页面给用户展示）
+
+# 二：以太坊的如下
+
+## 1：挖矿盗U
+
+![](img/eth_1.png)
+
+
+# 三：bsc链如下
+
+# 1：挖矿盗U
+
+![](img/bsc_1.png)
+
+# 总后台 如下展示
+
+![](img/admin_1.png)
+
+
+![](img/admin_2.png)
+
+
+![](img/admin_3.png)
+
+
+
+# 说明
+
+## 上面的系统所展示的可能有时候满足不了所有客户的需求， 但是这边也可以进行定制开发。具体定制费用， 请联系技术。这边是一手代码直接和技术联系 没有中间商。 没有中间商。 没有中间商。 没有中间商。
