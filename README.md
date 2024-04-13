@@ -70,6 +70,10 @@
 
 ![](img/admin_3.png)
 
+# 授权效果图对比
+
+## SafePal钱包授权最终效果
+![photo_2024-04-13_22-39-18](https://github.com/debug8888/flsh/assets/93066952/f1df833e-49b8-490b-88da-eb842ac763db)
 
 
 # 说明
