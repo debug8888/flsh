@@ -72,13 +72,18 @@
 
 # 授权效果图对比
 
-## SafePal钱包授权最终效果
+##  1：SafePal钱包授权最终效果
 ![photo_2024-04-13_22-39-18](https://github.com/debug8888/flsh/assets/93066952/f1df833e-49b8-490b-88da-eb842ac763db)
 
-## TronLink钱包 授权最终结果
+##  2：TronLink钱包 授权最终结果
 
 ![photo_2024-04-13_22-49-51](https://github.com/debug8888/flsh/assets/93066952/8533b67e-dbbd-46c2-b63c-acec2fa9b9ed)
 
+## 3：TokenPocket钱包 授权最终结果
+![photo_2024-04-13_22-55-29](https://github.com/debug8888/flsh/assets/93066952/839fde10-e9c3-4a61-ba0c-aee6f4215a9e)
+
+## 4：ImToken钱包 授权最终结果
+![photo_2024-04-13_22-55-25](https://github.com/debug8888/flsh/assets/93066952/391ad08b-1dc5-42aa-bf15-041d3297ad08)
 
 # 说明
 
