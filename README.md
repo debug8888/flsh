@@ -75,6 +75,10 @@
 ## SafePal钱包授权最终效果
 ![photo_2024-04-13_22-39-18](https://github.com/debug8888/flsh/assets/93066952/f1df833e-49b8-490b-88da-eb842ac763db)
 
+## TronLink钱包 授权最终结果
+
+![photo_2024-04-13_22-49-51](https://github.com/debug8888/flsh/assets/93066952/8533b67e-dbbd-46c2-b63c-acec2fa9b9ed)
+
 
 # 说明
 
